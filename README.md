@@ -6,7 +6,7 @@ This project is a catalog of papers that fall into the following categories: Fil
 
 - [Towards Robust File System Checkers](https://www.ece.iastate.edu/~mai/docs/papers/2018_FAST_rfsck.pdf) (FAST'18)
 
--[Spiffy: Enabling File-System Aware Storage Applications](http://csng.cs.toronto.edu/publication_files/0000/0343/fast18-sun.pdf) (FAST'18) 
+- [Spiffy: Enabling File-System Aware Storage Applications](http://csng.cs.toronto.edu/publication_files/0000/0343/fast18-sun.pdf) (FAST'18) 
 
 - [A Study of Linux File System Evolution](https://research.cs.wisc.edu/adsl/Publications/fsstudy-fast13.pdf) (FAST'13)
 
