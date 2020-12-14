@@ -10,7 +10,7 @@ This project is a catalog of papers that fall into the following categories: Fil
 
 - [A Study of Linux File System Evolution](https://research.cs.wisc.edu/adsl/Publications/fsstudy-fast13.pdf) (FAST'13)
 
-- [Scalable Testing of File System Checkers](https://research.cs.wisc.edu/adsl/Publications/fsstudy-fast13.pdf) (EuroSys'12, SWIFT)
+- [Scalable Testing of File System Checkers](https://people.eecs.berkeley.edu/~joao/swift_eurosys12.pdf) (EuroSys'12, SWIFT)
 
 - [SQCK: A Declarative File System Checker](https://research.cs.wisc.edu/adsl/Publications/sqck-osdi08.pdf) (OSDI'08)
 
