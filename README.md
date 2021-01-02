@@ -1,8 +1,9 @@
 # Linux File Systems and Utilities
 
 This project is a catalog of papers that fall into the following categories: File Systems, File System Utilities
+- File Systems
 
-- [Evaluating File System Reliability on Solid State Drives](https://www.usenix.org/system/files/atc19-jaffer.pdf) (FAST'19)
+-- [Evaluating File System Reliability on Solid State Drives](https://www.usenix.org/system/files/atc19-jaffer.pdf) (FAST'19)
 
 - [Towards Robust File System Checkers](https://www.ece.iastate.edu/~mai/docs/papers/2018_FAST_rfsck.pdf) (FAST'18)
 
