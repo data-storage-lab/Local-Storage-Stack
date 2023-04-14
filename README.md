@@ -7,10 +7,10 @@ This project is a catalog of papers that fall into the following categories: Fil
    3. [Fuzzing File Systems via Two-Dimensional Input Space Exploration](https://taesoo.kim/pubs/2019/xu:janus.pdf) (S&P'19, JANUS) [Open Source](https://github.com/sslab-gatech/janus)
    4. [File Systems are Hard to Test — Learning from Xfstests](https://www.jstage.jst.go.jp/article/transinf/E102.D/2/E102.D_2018EDP7006/_pdf/-char/en) (IEICE Transactions on Information and Systems '19)
    5. [Spiffy: Enabling File-System Aware Storage Applications](http://csng.cs.toronto.edu/publication_files/0000/0343/fast18-sun.pdf) (FAST'18)
-   6. [Cross-checking Semantic Correctness:The Case of Finding File System Bugs](https://taesoo.kim/pubs/2015/min:juxta.pdf) (SOSP'15) [Open Source](https://github.com/sslab-gatech/juxta)
-   7. [IRON File Systems](https://research.cs.wisc.edu/adsl/Publications/iron-sosp05.pdf) (SOSP'05)
-   8. [Analyzing IO Amplification in Linux File Systems](https://arxiv.org/pdf/1707.08514.pdf) (Arxiv'17) (no open source) 
-
+   6. [Analyzing IO Amplification in Linux File Systems](https://arxiv.org/pdf/1707.08514.pdf) (Arxiv'17) 
+   7. [Cross-checking Semantic Correctness:The Case of Finding File System Bugs](https://taesoo.kim/pubs/2015/min:juxta.pdf) (SOSP'15) [Open Source](https://github.com/sslab-gatech/juxta)
+   8. [IRON File Systems](https://research.cs.wisc.edu/adsl/Publications/iron-sosp05.pdf) (SOSP'05)
+    
 - File System Utilities
    1. [Towards Robust File System Checkers](https://www.ece.iastate.edu/~mai/docs/papers/2018_FAST_rfsck.pdf) (FAST'18)
    2. [A Study of Linux File System Evolution](https://research.cs.wisc.edu/adsl/Publications/fsstudy-fast13.pdf) (FAST'13)
