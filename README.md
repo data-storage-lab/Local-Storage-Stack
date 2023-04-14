@@ -9,6 +9,7 @@ This project is a catalog of papers that fall into the following categories: Fil
    5. [Spiffy: Enabling File-System Aware Storage Applications](http://csng.cs.toronto.edu/publication_files/0000/0343/fast18-sun.pdf) (FAST'18)
    6. [Cross-checking Semantic Correctness:The Case of Finding File System Bugs](https://taesoo.kim/pubs/2015/min:juxta.pdf) (SOSP'15) [Open Source](https://github.com/sslab-gatech/juxta)
    7. [IRON File Systems](https://research.cs.wisc.edu/adsl/Publications/iron-sosp05.pdf) (SOSP'05)
+   8. [Analyzing IO Amplification in Linux File Systems](https://arxiv.org/pdf/1707.08514.pdf) (Arxiv'17) (no open source) 
 
 - File System Utilities
    1. [Towards Robust File System Checkers](https://www.ece.iastate.edu/~mai/docs/papers/2018_FAST_rfsck.pdf) (FAST'18)
