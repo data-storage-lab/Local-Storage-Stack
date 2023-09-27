@@ -1,6 +1,6 @@
 # Linux File Systems and Utilities
 
-This project is a catalog of papers that fall into the following categories: File Systems, File System Utilities
+This section contains a catalog of papers that fall into the following categories: File Systems, File System Utilities
 - File Systems
    1. [Evaluating File System Reliability on Solid State Drives](https://www.usenix.org/system/files/atc19-jaffer.pdf) (FAST'19) [Open source](https://github.com/uoftsystems/dm-inject)
    2. [Finding Semantic Bugs in File Systems with an Extensible Fuzzing Framework](https://taesoo.kim/pubs/2019/kim:hydra.pdf) (SOSP'19, HYDRA) [Open Source](https://github.com/sslab-gatech/hydra)
