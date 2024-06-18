@@ -21,3 +21,7 @@ This section contains a catalog of papers that fall into the following categorie
    1. [E2fsprogs github link](https://github.com/tytso/e2fsprogs)
    2. [ext4 Data Structure](https://www.kernel.org/doc/html/latest/filesystems/ext4/globals.html#super-block)
    3. [Fsck − The UNIX† File System Check Program](https://docs.freebsd.org/44doc/smm/03.fsck/paper.pdf)
+
+- File system and ransomware
+   1. [GuardFS: a File System for Integrated Detection and Mitigation of Linux-based Ransomware](https://arxiv.org/pdf/2401.17917)(preprint to Elsevier)
+   2. [ShieldFS: A Self-healing, Ransomware-aware Filesystem](https://conand.me/publications/continella-shieldfs-2016.pdf)(ACSAC'16)
